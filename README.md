@@ -1,0 +1,1 @@
+# Repo ini digunakan untuk keperluan sharing knowledge javascript
